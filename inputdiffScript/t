@@ -1,0 +1,2 @@
+javac Dataflow.java -d orig &&
+javac DataflowPar.java -d par

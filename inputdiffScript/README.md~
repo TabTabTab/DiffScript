@@ -1,0 +1,9 @@
+in the directory where Dataflow.java and DataFlowPar.java exists:
+
+
+1.) place the files comp, run and t.
+
+2.) create the folders orig and par.
+
+3.) run the program using ./run or python run.
+Possibly with arguments such as V:[10,121,10] (will result in V = range(10, 121, 10) )
